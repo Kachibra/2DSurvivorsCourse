@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://esps8tgkc267"
+path="res://.godot/imported/Pixels in Paradise.mp3-f461a4b372a46c129ab28c8a0e958832.mp3str"
+
+[deps]
+
+source_file="res://Assets/Audio/Pixels in Paradise.mp3"
+dest_files=["res://.godot/imported/Pixels in Paradise.mp3-f461a4b372a46c129ab28c8a0e958832.mp3str"]
+
+[params]
+
+loop=true
+loop_offset=0.0
+bpm=0.0
+beat_count=0
+bar_beats=4
