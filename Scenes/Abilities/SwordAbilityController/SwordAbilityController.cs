@@ -8,7 +8,7 @@ public partial class SwordAbilityController : Node
 {
 	private const int MaxRange = 150; // constant integer represents the max range from the player a sword ability can activate
 
-	[Export] PackedScene swordAbility = new PackedScene(); // Add swordAbility as a scene that can be instantiated
+	[Export] PackedScene _swordAbility = new PackedScene(); // Add swordAbility as a scene that can be instantiated
 
     private int _damage = 5;
 	private double _baseWaitTime;
@@ -24,9 +24,15 @@ public partial class SwordAbilityController : Node
 		GetNode<GameEvents>("/root/GameEvents").AbilityUpgradeAdded += OnAbilityUpgradeAdded;
 	}
 
-	private void OnTimerTimeout() //Signal from Timer Node
+    public override void _ExitTree()
     {
-        var player = GetTree().GetFirstNodeInGroup("player") as Node2D; // Access Class/Node manager with GetTree and get the first node in group named player (as Node2D, default Node).
+        GetNode<GameEvents>("/root/GameEvents").AbilityUpgradeAdded -= OnAbilityUpgradeAdded;
+		_swordAbility = null;
+    }
+
+    private void OnTimerTimeout() //Signal from Timer Node
+    {
+        Node2D player = GetTree().GetFirstNodeInGroup("player") as Node2D; // Access Class/Node manager with GetTree and get the first node in group named player (as Node2D, default Node).
 		if (player == null) // Make sure player is not a null refrence.
 		{
 			return;
@@ -41,10 +47,10 @@ public partial class SwordAbilityController : Node
 			return;
 		}
 
-		var closestEnemies = sortedEnemies.OrderBy(enemy => enemy.GlobalPosition.DistanceSquaredTo(player.GlobalPosition)).ToList(); // If there are enemies within the max range of the player, find the enemy that is closest to the player.
+		List<Node2D> closestEnemies = sortedEnemies.OrderBy(enemy => enemy.GlobalPosition.DistanceSquaredTo(player.GlobalPosition)).ToList(); // If there are enemies within the max range of the player, find the enemy that is closest to the player.
 
-        var swordInstance = swordAbility.Instantiate() as SwordAbility; // Create a new sword instance in memory
-		var foregroundLayer = GetTree().GetFirstNodeInGroup("foregroundLayer");
+        SwordAbility swordInstance = _swordAbility.Instantiate() as SwordAbility; // Create a new sword instance in memory
+		Node foregroundLayer = GetTree().GetFirstNodeInGroup("foregroundLayer");
 
         if (swordInstance == null) // Check to make sure there is a swordInstance
         {

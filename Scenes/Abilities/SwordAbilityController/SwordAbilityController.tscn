@@ -5,7 +5,7 @@
 
 [node name="SwordAbilityController" type="Node"]
 script = ExtResource("1_vwg00")
-swordAbility = ExtResource("2_oiti7")
+_swordAbility = ExtResource("2_oiti7")
 
 [node name="Timer" type="Timer" parent="."]
 wait_time = 1.5

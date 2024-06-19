@@ -16,7 +16,13 @@ public partial class UpgradeManager : Node
 		_experienceManager.LevelUp += OnLevelUp;
     }
 
-	private void OnLevelUp(int currentLevel)
+    public override void _ExitTree()
+    {
+        _experienceManager.LevelUp -= OnLevelUp;
+        _upgradeScreenScene = null;
+    }
+
+    private void OnLevelUp(int currentLevel)
 	{
         AbilityUpgrade chosenUpgrade = _upgrade_pool.PickRandom();
         AbilityUpgrade[] chosenUpgrades =  new AbilityUpgrade[] { chosenUpgrade };

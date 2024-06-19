@@ -14,7 +14,12 @@ public partial class ExperienceBar : CanvasLayer
 		_experienceManager.ExperienceUpdated += OnExperienceUpdated;
 	}
 
-	private void OnExperienceUpdated(float currentExperience, float targetExperience)
+    public override void _ExitTree()
+    {
+        _experienceManager.ExperienceUpdated -= OnExperienceUpdated;
+    }
+
+    private void OnExperienceUpdated(float currentExperience, float targetExperience)
 	{
 		float progressPercent = currentExperience / targetExperience;
         _progressBar.Value = progressPercent;
