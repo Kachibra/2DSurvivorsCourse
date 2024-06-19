@@ -16,7 +16,12 @@ public partial class ExperienceManager : Node
 		GetNode<GameEvents>("/root/GameEvents").ExperienceVialCollected += OnExperienceVialCollected;
 	}
 
-	private void IncrementExperience(float number)
+	public override void _ExitTree()
+	{
+        GetNode<GameEvents>("/root/GameEvents").ExperienceVialCollected -= OnExperienceVialCollected;
+    }
+
+    private void IncrementExperience(float number)
 	{
 		_currentExperience = Mathf.Min(_currentExperience + number, _targetExperience);
 		EmitSignal(SignalName.ExperienceUpdated, _currentExperience, _targetExperience);
@@ -27,7 +32,7 @@ public partial class ExperienceManager : Node
 			_targetExperience += TargetExperienceGrowth;
 			_currentExperience = 0;
             EmitSignal(SignalName.ExperienceUpdated, _currentExperience, _targetExperience);
-			EmitSignal(SignalName.LevelUp, _currentLevel); // => UpgradeManager
+			EmitSignal(SignalName.LevelUp, _currentLevel); // UpgradeManager
         }
 	}
 

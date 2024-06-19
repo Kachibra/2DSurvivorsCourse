@@ -9,6 +9,11 @@ public partial class HurtboxComponent : Area2D
         AreaEntered += OnAreaEntered;
     }
 
+    public override void _ExitTree()
+    {
+        AreaEntered -= OnAreaEntered;
+    }
+
     public void OnAreaEntered(Area2D otherArea)
     {
         if (otherArea is not HitboxComponent) 

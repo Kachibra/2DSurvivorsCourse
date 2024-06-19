@@ -14,8 +14,13 @@ public partial class EndScreen : CanvasLayer
 		_restartButton.Pressed += OnRestartButtonPressed;
 		_quitButton.Pressed += OnQuitButtonPressed;
 	}
+    public override void _ExitTree()
+    {
+        _restartButton.Pressed -= OnRestartButtonPressed;
+        _quitButton.Pressed -= OnQuitButtonPressed;
+    }
 
-	public void SetDefeat()
+    public void SetDefeat()
 	{
 		GetNode<Label>("%TitleLabel").Text = "Defeat";
 		GetNode<Label>("%DescriptionLabel").Text = "You Lost.";

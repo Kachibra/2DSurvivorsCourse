@@ -15,7 +15,12 @@ public partial class AbilityUpgradeCard : PanelContainer
 		GuiInput += OnGuiInput;
 	}
 
-	public void SetAbilityUpgrade(AbilityUpgrade upgrade)
+    public override void _ExitTree()
+    {
+        GuiInput -= OnGuiInput;
+    }
+
+    public void SetAbilityUpgrade(AbilityUpgrade upgrade)
 	{
 		_nameLabel.Text = upgrade.Name;
 		_descriptionLabel.Text = upgrade.Description;

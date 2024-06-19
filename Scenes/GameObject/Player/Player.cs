@@ -38,9 +38,17 @@ public partial class Player : CharacterBody2D
 
 		MoveAndSlide();
 	}
-	
-	// Get movement vector directly from player input
-	public Vector2 GetMovementVector()
+
+    public override void _ExitTree()
+    {
+        GetNode<Area2D>("CollisionArea2D").BodyEntered -= OnBodyEntered;
+        GetNode<Area2D>("CollisionArea2D").BodyExited -= OnBodyExited;
+        _damageIntervalTimer.Timeout -= OnDamageIntervalTimerTimeout;
+        _healthComponent.HealthChanged -= OnHealthChanged;
+    }
+
+    // Get movement vector directly from player input
+    public Vector2 GetMovementVector()
 	{
 		Vector2 movementVector = Vector2.Zero;
 

@@ -13,7 +13,12 @@ public partial class UpgradeScreen : CanvasLayer
 		GetTree().Paused = true;
 	}
 
-	public void SetAbilityUpgrades(AbilityUpgrade[] upgrades)
+    public override void _ExitTree()
+    {
+        _upgradeCardScene = null;
+    }
+
+    public void SetAbilityUpgrades(AbilityUpgrade[] upgrades)
 	{
         foreach (AbilityUpgrade upgrade in upgrades)
 		{

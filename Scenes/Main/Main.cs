@@ -11,7 +11,12 @@ public partial class Main : Node
 		GetNode<Player>("%Player").HealthComponent.Died += OnPlayerDied;
 	}
 
-	private void OnPlayerDied()
+    public override void _ExitTree()
+    {
+		_endScreenScene = null;
+    }
+
+    private void OnPlayerDied()
 	{
 		EndScreen endScreenInstance = _endScreenScene.Instantiate() as EndScreen;
 

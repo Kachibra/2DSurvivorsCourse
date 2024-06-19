@@ -8,7 +8,7 @@ public partial class EnemyManager : Node
 {
 	private const int SpawnerRadius = 400; // Range around player that an enemy can spawn
 
-	[Export] PackedScene _basicEnemyScene = new PackedScene(); //Inherits packed scene Basic Enemy
+	[Export] PackedScene _basicEnemyScene; //Inherits packed scene Basic Enemy
 	[Export] ArenaTimeManager _arenaTimeManager;
 
 	private Timer _enemySpawnTimer;
@@ -25,8 +25,14 @@ public partial class EnemyManager : Node
         _enemySpawnTimer.Timeout += OnTimerTimeout; //Connects timer.timeout to this node
 		_arenaTimeManager.ArenaDifficultyIncreased += OnArenaDifficultyIncreased;
 	}
+    public override void _ExitTree()
+    {
+        _enemySpawnTimer.Timeout -= OnTimerTimeout; //Connects timer.timeout to this node
+        _arenaTimeManager.ArenaDifficultyIncreased -= OnArenaDifficultyIncreased;
+        _basicEnemyScene = null;
+    }
 
-	private Vector2 GetSpawnPosition()
+    private Vector2 GetSpawnPosition()
 	{
         Node2D player = GetTree().GetFirstNodeInGroup("player") as Node2D; // get player object in scene tree
         if (player == null) // return if there is no player in the scene tree

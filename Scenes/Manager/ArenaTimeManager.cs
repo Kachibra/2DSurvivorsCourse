@@ -10,7 +10,7 @@ public partial class ArenaTimeManager : Node
     
     private const int DifficultyInterval = 5;
     
-    [Export] PackedScene _endScreenScene;
+    [Export] PackedScene _endScreenScene = new PackedScene();
     
     private Timer _timer;
     
@@ -30,6 +30,12 @@ public partial class ArenaTimeManager : Node
             _arenaDifficulty += 1;
             EmitSignal(SignalName.ArenaDifficultyIncreased, _arenaDifficulty);
         }
+    }
+
+    public override void _ExitTree()
+    {
+        _timer.Timeout -= OnTimerTimeout;
+        _endScreenScene = null;
     }
 
     public double GetTimeElapsed()
