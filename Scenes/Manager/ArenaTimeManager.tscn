@@ -8,6 +8,6 @@ script = ExtResource("1_4imj5")
 _endScreenScene = ExtResource("2_aws5j")
 
 [node name="Timer" type="Timer" parent="."]
-wait_time = 600.0
+wait_time = 300.0
 one_shot = true
 autostart = true
