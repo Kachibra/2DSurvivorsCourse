@@ -10,7 +10,7 @@ public partial class SwordAbilityController : Node
 
 	[Export] PackedScene _swordAbility = new PackedScene(); // Add swordAbility as a scene that can be instantiated
 
-    private int _damage = 5;
+    private int _damage = 10;
 	private double _baseWaitTime;
 
 	public override void _Ready()
@@ -78,7 +78,7 @@ public partial class SwordAbilityController : Node
 
 		double percentReduction = (double)currentUpgrades["swordRate"]["quantity"] * 0.1;
 		GD.Print(percentReduction);
-		GetNode<Timer>("Timer").WaitTime = Math.Max(_baseWaitTime * (1 - percentReduction), 0.01);
+		GetNode<Timer>("Timer").WaitTime = Math.Max(_baseWaitTime * (1 - percentReduction), 0.1);
         GetNode<Timer>("Timer").Start();
 
     }

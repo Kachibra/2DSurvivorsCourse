@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\AxeAbility\\AxeAbility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scenes\\Abilities\\AxeAbility\\AxeAbility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\abilities\\axeability\\axeability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\abilities\\axeability\\axeability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\AxeAbilityController\\AxeAbilityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Scenes\\Abilities\\AxeAbilityController\\AxeAbilityController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\abilities\\axeabilitycontroller\\axeabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\abilities\\axeabilitycontroller\\axeabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\component\\hitboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\component\\hitboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\abilities\\swordability\\swordability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,32 +23,40 @@
       "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\abilities\\swordabilitycontroller\\swordabilitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\ui\\upgradescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\ui\\upgradescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\manager\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\manager\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\gameobject\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\gameobject\\player\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\component\\hurtboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\component\\hurtboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\main\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\component\\hitboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\component\\hitboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\manager\\arenatimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\manager\\arenatimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\gameobject\\basicenemy\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\gameobject\\basicenemy\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\component\\healthcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\component\\healthcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\manager\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\manager\\upgrademanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\component\\hurtboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\component\\hurtboxcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\ui\\upgradescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\ui\\upgradescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\autoload\\gameevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -63,24 +75,12 @@
       "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\ui\\experiencebar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\manager\\enemymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\ui\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\ui\\endscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\gameobject\\basicenemy\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\gameobject\\basicenemy\\basicenemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\ui\\arenatimeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\ui\\arenatimeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\manager\\arenatimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|solutionrelative:scenes\\manager\\arenatimemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DEF2348C-309E-413C-AEDE-59F342F7B69E}|2DSurvivorsCourse.csproj|c:\\users\\blkra\\desktop\\godotprojects\\2dsurvivorscourse\\scenes\\ui\\abilityupgradecard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,8 +98,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -108,7 +112,7 @@
               "RelativeDocumentMoniker": "Scenes\\Abilities\\AxeAbility\\AxeAbility.cs",
               "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\AxeAbility\\AxeAbility.cs",
               "RelativeToolTip": "Scenes\\Abilities\\AxeAbility\\AxeAbility.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBoAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAACMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T17:58:10.257Z",
               "EditorCaption": ""
@@ -121,7 +125,7 @@
               "RelativeDocumentMoniker": "Scenes\\Abilities\\AxeAbilityController\\AxeAbilityController.cs",
               "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\AxeAbilityController\\AxeAbilityController.cs",
               "RelativeToolTip": "Scenes\\Abilities\\AxeAbilityController\\AxeAbilityController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAAIAAAA",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wCsAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-19T17:01:24.127Z",
               "EditorCaption": ""
@@ -129,58 +133,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "SwordAbilityController.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
-              "RelativeDocumentMoniker": "Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
-              "RelativeToolTip": "Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAgwC0AAAADAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T22:31:48.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HurtboxComponent.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Component\\HurtboxComponent.cs",
-              "RelativeDocumentMoniker": "Scenes\\Component\\HurtboxComponent.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Component\\HurtboxComponent.cs",
-              "RelativeToolTip": "Scenes\\Component\\HurtboxComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-19T18:34:49.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Main\\Main.cs",
-              "RelativeDocumentMoniker": "Scenes\\Main\\Main.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Main\\Main.cs",
-              "RelativeToolTip": "Scenes\\Main\\Main.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-16T17:19:53.729Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\Player\\Player.cs",
-              "RelativeDocumentMoniker": "Scenes\\GameObject\\Player\\Player.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\Player\\Player.cs",
-              "RelativeToolTip": "Scenes\\GameObject\\Player\\Player.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAYwC4AAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T02:45:09.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "SwordAbility.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\SwordAbility\\SwordAbility.cs",
               "RelativeDocumentMoniker": "Scenes\\Abilities\\SwordAbility\\SwordAbility.cs",
@@ -193,39 +145,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UpgradeManager.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\UpgradeManager.cs",
-              "RelativeDocumentMoniker": "Scenes\\Manager\\UpgradeManager.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\UpgradeManager.cs",
-              "RelativeToolTip": "Scenes\\Manager\\UpgradeManager.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBQAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T04:01:14.582Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UpgradeScreen.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\UI\\UpgradeScreen.cs",
-              "RelativeDocumentMoniker": "Scenes\\UI\\UpgradeScreen.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\UI\\UpgradeScreen.cs",
-              "RelativeToolTip": "Scenes\\UI\\UpgradeScreen.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Title": "EnemyManager.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\EnemyManager.cs",
+              "RelativeDocumentMoniker": "Scenes\\Manager\\EnemyManager.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\EnemyManager.cs",
+              "RelativeToolTip": "Scenes\\Manager\\EnemyManager.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwFIAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T20:40:19.216Z",
+              "WhenOpened": "2024-05-06T02:09:20.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "BasicEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
+              "RelativeDocumentMoniker": "Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
+              "RelativeToolTip": "Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T20:51:15.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwordAbilityController.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
+              "RelativeDocumentMoniker": "Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
+              "RelativeToolTip": "Scenes\\Abilities\\SwordAbilityController\\SwordAbilityController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T22:31:48.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ArenaTimeManager.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\ArenaTimeManager.cs",
+              "RelativeDocumentMoniker": "Scenes\\Manager\\ArenaTimeManager.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\ArenaTimeManager.cs",
+              "RelativeToolTip": "Scenes\\Manager\\ArenaTimeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T23:21:28.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Main\\Main.cs",
+              "RelativeDocumentMoniker": "Scenes\\Main\\Main.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Main\\Main.cs",
+              "RelativeToolTip": "Scenes\\Main\\Main.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:19:53.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\Player\\Player.cs",
+              "RelativeDocumentMoniker": "Scenes\\GameObject\\Player\\Player.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\Player\\Player.cs",
+              "RelativeToolTip": "Scenes\\GameObject\\Player\\Player.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAmwC4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T02:45:09.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HitboxComponent.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Component\\HitboxComponent.cs",
               "RelativeDocumentMoniker": "Scenes\\Component\\HitboxComponent.cs",
               "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Component\\HitboxComponent.cs",
               "RelativeToolTip": "Scenes\\Component\\HitboxComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T18:21:25.597Z",
               "EditorCaption": ""
@@ -238,7 +242,7 @@
               "RelativeDocumentMoniker": "Scenes\\Component\\HealthComponent.cs",
               "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Component\\HealthComponent.cs",
               "RelativeToolTip": "Scenes\\Component\\HealthComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T01:37:46.364Z",
               "EditorCaption": ""
@@ -246,6 +250,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "UpgradeManager.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\UpgradeManager.cs",
+              "RelativeDocumentMoniker": "Scenes\\Manager\\UpgradeManager.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\UpgradeManager.cs",
+              "RelativeToolTip": "Scenes\\Manager\\UpgradeManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T04:01:14.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HurtboxComponent.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Component\\HurtboxComponent.cs",
+              "RelativeDocumentMoniker": "Scenes\\Component\\HurtboxComponent.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Component\\HurtboxComponent.cs",
+              "RelativeToolTip": "Scenes\\Component\\HurtboxComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:34:49.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpgradeScreen.cs",
+              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\UI\\UpgradeScreen.cs",
+              "RelativeDocumentMoniker": "Scenes\\UI\\UpgradeScreen.cs",
+              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\UI\\UpgradeScreen.cs",
+              "RelativeToolTip": "Scenes\\UI\\UpgradeScreen.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T20:40:19.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "GameEvents.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Autoload\\GameEvents.cs",
               "RelativeDocumentMoniker": "Scenes\\Autoload\\GameEvents.cs",
@@ -253,12 +296,11 @@
               "RelativeToolTip": "Scenes\\Autoload\\GameEvents.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAB4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-13T02:34:40.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-13T02:34:40.891Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ExperienceVial.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\ExperienceVial\\ExperienceVial.cs",
               "RelativeDocumentMoniker": "Scenes\\GameObject\\ExperienceVial\\ExperienceVial.cs",
@@ -266,12 +308,11 @@
               "RelativeToolTip": "Scenes\\GameObject\\ExperienceVial\\ExperienceVial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T22:42:34.115Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T22:42:34.115Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "ExperienceManager.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\ExperienceManager.cs",
               "RelativeDocumentMoniker": "Scenes\\Manager\\ExperienceManager.cs",
@@ -279,12 +320,11 @@
               "RelativeToolTip": "Scenes\\Manager\\ExperienceManager.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T15:05:29.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T15:05:29.249Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "ExperienceBar.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\UI\\ExperienceBar.cs",
               "RelativeDocumentMoniker": "Scenes\\UI\\ExperienceBar.cs",
@@ -292,25 +332,11 @@
               "RelativeToolTip": "Scenes\\UI\\ExperienceBar.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-20T01:46:37.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-20T01:46:37.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "EnemyManager.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\EnemyManager.cs",
-              "RelativeDocumentMoniker": "Scenes\\Manager\\EnemyManager.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\EnemyManager.cs",
-              "RelativeToolTip": "Scenes\\Manager\\EnemyManager.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAwB4AAAA0AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-06T02:09:20.382Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 18,
               "Title": "EndScreen.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\UI\\EndScreen.cs",
               "RelativeDocumentMoniker": "Scenes\\UI\\EndScreen.cs",
@@ -318,25 +344,11 @@
               "RelativeToolTip": "Scenes\\UI\\EndScreen.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T22:20:29.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T22:20:29.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "BasicEnemy.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
-              "RelativeDocumentMoniker": "Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
-              "RelativeToolTip": "Scenes\\GameObject\\BasicEnemy\\BasicEnemy.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBcAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-17T20:51:15.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ArenaTimeUI.cs",
               "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\UI\\ArenaTimeUI.cs",
               "RelativeDocumentMoniker": "Scenes\\UI\\ArenaTimeUI.cs",
@@ -344,21 +356,7 @@
               "RelativeToolTip": "Scenes\\UI\\ArenaTimeUI.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T23:32:43.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "ArenaTimeManager.cs",
-              "DocumentMoniker": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\ArenaTimeManager.cs",
-              "RelativeDocumentMoniker": "Scenes\\Manager\\ArenaTimeManager.cs",
-              "ToolTip": "C:\\Users\\blkra\\Desktop\\GodotProjects\\2DSurvivorsCourse\\Scenes\\Manager\\ArenaTimeManager.cs",
-              "RelativeToolTip": "Scenes\\Manager\\ArenaTimeManager.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwCQAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T23:21:28.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T23:32:43.224Z"
             },
             {
               "$type": "Document",
@@ -370,8 +368,7 @@
               "RelativeToolTip": "Scenes\\UI\\AbilityUpgradeCard.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-26T20:22:49.255Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-26T20:22:49.255Z"
             },
             {
               "$type": "Document",
@@ -383,8 +380,7 @@
               "RelativeToolTip": "Resources\\Upgrades\\AbilityUpgrade.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-21T03:55:36.388Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T03:55:36.388Z"
             }
           ]
         }

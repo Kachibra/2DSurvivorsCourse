@@ -3,7 +3,7 @@ using System;
 
 public partial class HealthComponent : Node
 {
-	[Signal] public delegate void DiedEventHandler();
+    [Signal] public delegate void DiedEventHandler();
 	[Signal] public delegate void HealthChangedEventHandler();
 	[Export] private float _maxHealth = 10;
 	private float _currentHealth;

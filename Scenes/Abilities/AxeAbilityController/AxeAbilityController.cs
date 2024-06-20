@@ -41,7 +41,7 @@ public partial class AxeAbilityController : Node
         {
             return;
         }
-
+        axeAbilityInstance.Initialize((float)_axeSpawnTimer.WaitTime);
         foregroundLayer.AddChild(axeAbilityInstance);
         axeAbilityInstance.HitboxComponent.Damage = _damage;
         axeAbilityInstance.GlobalPosition = player.GlobalPosition;
