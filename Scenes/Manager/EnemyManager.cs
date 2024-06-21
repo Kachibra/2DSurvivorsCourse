@@ -82,6 +82,6 @@ public partial class EnemyManager : Node
 		double timeOff = (0.2 / 12) * arenaDifficulty; // enemy spawn wait time reduced by 0.1 every minute. Interval depends on arenaDifficulty.
 		timeOff = Math.Min(timeOff, .9);
 		_enemySpawnTimer.WaitTime = _baseSpawnTime - timeOff;
-        GD.Print(_enemySpawnTimer.WaitTime);
+        //GD.Print(_enemySpawnTimer.WaitTime);
     }
 }
