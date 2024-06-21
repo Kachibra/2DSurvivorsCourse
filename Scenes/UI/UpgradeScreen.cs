@@ -1,4 +1,5 @@
 using Godot;
+using Godot.Collections;
 using System;
 
 public partial class UpgradeScreen : CanvasLayer
@@ -18,7 +19,7 @@ public partial class UpgradeScreen : CanvasLayer
         _upgradeCardScene = null;
     }
 
-    public void SetAbilityUpgrades(AbilityUpgrade[] upgrades)
+    public void SetAbilityUpgrades(Array<AbilityUpgrade> upgrades)
 	{
         foreach (AbilityUpgrade upgrade in upgrades)
 		{
@@ -31,7 +32,7 @@ public partial class UpgradeScreen : CanvasLayer
 
 			_cardContainer.AddChild(cardInstance);
 			cardInstance.SetAbilityUpgrade(upgrade);
-			cardInstance.AbilitySelected += () => OnAbilitySelected((AbilityUpgrade)upgrade);
+			cardInstance.AbilitySelected += () => OnAbilitySelected(upgrade);
 		}
 	}
 
